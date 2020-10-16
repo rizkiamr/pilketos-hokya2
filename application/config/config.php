@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'https://www.smea-pilketos.ga';
+$config['base_url'] = 'https://smea-pilketos.ga';
 
 /*
 |--------------------------------------------------------------------------
